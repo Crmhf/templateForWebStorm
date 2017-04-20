@@ -27,3 +27,5 @@ function foo(p1, p2, p3){
 		p3 : p3
 	};
 }
+
+// TODO 待完成对jQuery插件的完善
